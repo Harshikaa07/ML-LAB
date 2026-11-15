@@ -1,2 +1,2 @@
 # ML-LAB
-Machine learning lab work and algos
+Machine learning lab work and algorithms
